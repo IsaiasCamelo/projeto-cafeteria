@@ -87,7 +87,7 @@ section {
 }
 
 .home-container {
-    background: url("../imagens/home-img.jpg");
+    background: url("imagens/home-img.jpg");
     background-position: center;
     background-size: cover;
 }
